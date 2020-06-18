@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\bin\Debug\netcoreapp3.1\Ifood.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\bin\Debug\netcoreapp3.1\Ifood.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\bin\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\bin\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ifood\Ifood\obj\Debug\netcoreapp3.1\Ifood.genruntimeconfig.cache
