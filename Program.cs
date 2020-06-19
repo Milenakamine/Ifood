@@ -9,7 +9,7 @@ namespace Ifood
            Restaurante outback = new Restaurante(" Outback");
            outback.Endereco= "Av. Reg. Feijó, 1739";
            Console.WriteLine(outback.NomeFantasia);
-            Console.WriteLine(outback.MostarDados() );
+            Console.WriteLine(outback.MostrarDados() );
 
             Cliente milena = new Cliente("Milena Akamine");
             milena.EnderecoAtual="Rua Luis Botta, 544.";
@@ -18,9 +18,11 @@ namespace Ifood
 
 
            Pedido pedido1= new Pedido();
-           pedido1.Cliente= milena.Nome;
-           pedido1.Restaurante= outback.NomeFantasia;
-           Console.WriteLine(pedido1.EntregarPedido("Bloomin’ Onion","Cartão de Débito"));
+           pedido1.Cliente= milena;
+           pedido1.Restaurante= outback;
+
+           Console.WriteLine( pedido1.EntregarPedido() );
+        //    Console.WriteLine(pedido1.EntregarPedido("Bloomin’ Onion","Cartão de Débito"));
 
 
           
